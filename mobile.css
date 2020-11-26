@@ -1,0 +1,29 @@
+/* html { 
+	font-size: calc(0.5em + 0.7vw)
+} */
+
+body {
+	/*font-family: 'Cutive';*/
+	/* line-height: 1.7em; */
+	background-image: url("Home06.png");
+	background-position: top;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100%;
+}
+
+#filler {
+	height: 2700px;
+	color: red;
+	visibility: hidden;
+	/* background-color: yellow; */
+	/* font-size: 1ch; */
+	/* color: white; */
+}
+
+#desktopWarning {
+	display: none;
+	/* background-color: green; */
+	/* height: 130px; */
+	/* font-size: 1ch; */
+}

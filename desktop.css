@@ -1,0 +1,21 @@
+html { 
+	font-size: calc(0.5em + 0.7vw)
+}
+
+body {
+	/* background-attachment: fixed; */
+	/* -webkit-background-size: cover; */
+	/* background-size: cover; */
+	font-family: 'Cutive';
+	line-height: 1.7em;
+}
+
+h1 {
+	font-weight: 100;
+	line-height: 1.4em;
+}
+
+#filler {
+	/* display: none; */
+	font-size: 0ch;
+}
