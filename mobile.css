@@ -3,11 +3,11 @@
 } */
 
 body {
-	/* background-image: url("Home07.png"); */
-	/* padding-top: 612%; */
+	background-image: url("Home07.png");
+	padding-top: 612%;
 	
-	background-image: url("Shop01.png");
-	padding-top: 573%;
+	/* background-image: url("Shop01.png");
+	padding-top: 573%; */
 
 	background-size: contain;
 	background-repeat: no-repeat;
@@ -15,6 +15,11 @@ body {
 	width: 100%;
 	height: 0;
 }
+
+/* #home {
+	background-color: yellow;
+	height: 50px;
+} */
 
 #desktopWarning {
 	display: none;
