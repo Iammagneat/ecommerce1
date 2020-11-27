@@ -3,7 +3,8 @@
 } */
 
 body {
-	background-image: url("Home07.png");
+	/* background-image: url("Home07.png"); */
+	background-image: url("Shop01.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-attachment: scroll;
